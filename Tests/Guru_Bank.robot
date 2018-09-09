@@ -7,7 +7,7 @@ Test Setup  Begin web test
 Test Teardown  End web test
 
 *** Variables ***
-${BROWSER} =  edge
+${BROWSER} =  firefox
 
 *** Test Cases ***
 
